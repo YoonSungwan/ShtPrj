@@ -72,5 +72,9 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
+ 
+# JetBrains Rider
 Plugins/Developer/RiderLink/
+
+#Contents
+Content/

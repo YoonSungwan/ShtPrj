@@ -77,4 +77,8 @@ DerivedDataCache/*
 Plugins/Developer/RiderLink/
 
 #Contents
-Content/
+Content/ExAsset/Pirate/
+Content/StarterContent/Characters/
+Content/StarterContent/FirstPersonArms/
+Content/StarterContent/MWLandscapeAutoMaterial/
+Content/StarterContent/
